@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Hollow Knight Boy](https://img.icons8.com/wired/452/hollow-knight.png)
